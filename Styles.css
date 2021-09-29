@@ -6,6 +6,7 @@
     left: 0px;
     top: 0px;
     border-radius: 10px;
+    transition-duration: 0.2s;
 }
 #target{
     width: 50px;
@@ -15,6 +16,7 @@
     left: 0px;
     top: 0px;
     border-radius: 10px;
+    transition-duration: 0.2s;
 }
 .container {
     background-image:
