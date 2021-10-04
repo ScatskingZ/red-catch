@@ -8,6 +8,7 @@
     border-radius: 10px;
     transition-duration: 0.2s;
     /*github i beg of you PLEASE INCLUDE THE TRANSITION DURATION*/
+    /*edit: thanks github :)*/
 }
 #target{
     width: 50px;
