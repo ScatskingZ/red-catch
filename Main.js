@@ -42,8 +42,6 @@ function UpdatePlayer(e)
     }
 }
 setInterval(function(){
-    console.log(dir);
-
     if(dir == 'w'){
     y = y - speed;
     }
